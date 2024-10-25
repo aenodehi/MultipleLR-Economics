@@ -16,5 +16,5 @@ cd <repository-directory>
 Run the following command to build and start the services:
 
 ```bash
-docker-compose up --build
+docker-compose up -d
 ```
